@@ -38,3 +38,12 @@ Each part highlights how **unique constraints, row-level locks, and transactions
 
 ---
 
+## 📊 Final Output
+
+After executing all parts, the final state of the table is:
+
+![Final Output](assets/final_output.png)
+
+- **No duplicate enrollments** ✅  
+- **Conflicting updates serialized** ✅  
+- **Data integrity preserved** ✅  
